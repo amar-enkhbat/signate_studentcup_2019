@@ -1,0 +1,6 @@
+data/
+preprocessed_data/
+地価データ/
+.ipynb_checkpoints/
+.vscode/
+
